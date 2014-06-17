@@ -1,0 +1,22 @@
+{
+  "name": "base.reset",
+  "version": "1.0.1",
+  "homepage": "https://github.com/ultimate-package/base.reset",
+  "authors": [
+    "Robin Rendle <robin@erskinedesign.com>"
+  ],
+  "description": "A CSS reset with sane defaults",
+  "main": "reset.css",
+  "keywords": [
+    "CSS",
+    "reset"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
