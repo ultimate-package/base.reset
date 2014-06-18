@@ -86,6 +86,8 @@ textarea{
     font:inherit;
 }
 
-button {
+button,
+input[type="button"],
+input[type="submit"] {
     cursor: pointer;
 }
